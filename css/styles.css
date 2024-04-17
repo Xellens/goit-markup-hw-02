@@ -36,13 +36,14 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-
-.logo-color {
   color: #4d5ae5;
 }
 
-.logo-color-header {
+.logo-color {
+  color: #2e2f42;
+}
+
+.menu {
   color: #2e2f42;
 }
 
@@ -193,4 +194,14 @@ body {
 
 .logo-color-studio {
   color: #f4f4fd;
+}
+
+.page-logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
