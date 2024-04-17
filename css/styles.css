@@ -98,6 +98,7 @@ body {
 .buy-now-btn:hover,
 .buy-now-btn:focus {
   color: #404bbf;
+  background-color: #404bbf;
 }
 
 .advantages-list-title {
@@ -132,12 +133,12 @@ body {
   text-transform: capitalize;
 }
 
-.team-list {
-  background-color: #ffffff;
-}
-
 .team-list-img {
   background: #fff;
+}
+
+.team-list-item {
+  background-color: #ffffff;
 }
 
 .team-list-title {
